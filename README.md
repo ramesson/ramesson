@@ -1,1 +1,1 @@
-BETA site for ramesson.org !!
+backup site for ramesson.xyz as gt.ramesson.xyz !!
