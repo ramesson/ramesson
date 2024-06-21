@@ -1,1 +1,1 @@
-backup site for ramesson.xyz as gt.ramesson.xyz !!
+Initial concept template for ramesson.xyz.
